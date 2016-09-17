@@ -8,6 +8,8 @@
 #         if n == 2: return 2
 #         return self.climbStairs(n-1)+self.climbStairs(n-2)
 
+# dynamic programming
+# http://1mhz.me/2015/leetcode-in-js-70-climb-stairs/
 class Solution(object):
     def climbStairs(self, n):
         """
@@ -24,6 +26,7 @@ class Solution(object):
 
 test = Solution()
 print test.climbStairs(35)
+print test.climbStairs(36)
 
 
 
