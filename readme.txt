@@ -5,3 +5,4 @@ problem 165 解法很漂亮，学习使用extend,map，split函数，学会使�
 problem 257 DFS 注意python的一些特殊用法。
 problem 111 DFS的应用。
 problem 144 本次使用的是递归方法，下一次尝试使用非递归的写法
+problem 94 下一次学习使用非递归的实现方法
