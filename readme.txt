@@ -7,6 +7,7 @@ problem 50 not solved
 problem 94 下一次学习使用非递归的实现方法
 problem 111 DFS的应用。
 problem 144 本次使用的是递归方法，下一次尝试使用非递归的写法
+problem 151 学会filter的用法，学会join的用法
 problem 160 not solved
 problem 165 解法很漂亮，学习使用extend,map，split函数，学会使用字符串转为list，dict等处理方法
 problem 167 not solved
