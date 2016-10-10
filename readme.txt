@@ -2,9 +2,9 @@ leetcode algorithm which is coded by python
 
 
 problem 2 使用自己的写的函数addnum会超时，原因未知
-problem 3 很重要的题目，要多做几遍, left<=last[s[i]]的这个设置很巧妙，解决了在判          断最长字符串中没有更新last而导致left的更新错误的问题，比如'abba'的测试
-problem 5 如果用自己的方法时间复杂度是O(n^2),会超时，另一种方法比较漂亮！但是漂		  亮的解法是马拉车算法
-problem 6 方法两种 1是按照顺序存入list的列表中，然后转为string.另一种是寻找字母		  下标与所在行的数学关系。
+problem 3 很重要的题目，要多做几遍, left<=last[s[i]]的这个设置很巧妙，解决了在判断最长字符串中没有更新last而导致left的更新错误的问题，比如'abba'的测试
+problem 5 如果用自己的方法时间复杂度是O(n^2),会超时，另一种方法比较漂亮！但是漂亮的解法是马拉车算法
+problem 6 方法两种 1是按照顺序存入list的列表中，然后转为string.另一种是寻找字母下标与所在行的数学关系。
 problem 7 not solved
 problem 8 not solved
 problem 50 not solved
