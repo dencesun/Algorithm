@@ -8,6 +8,7 @@ problem 6 方法两种 1是按照顺序存入list的列表中，然后转为stri
 problem 7 not solved
 problem 8 not solved
 problem 9 回环数，这个题目类比problem5，非常简单。
+problem 20 自己的方法和提交的方法思想一样，本地测试一样，但是OJ上面报错。无奈，拷贝网上的代码。
 problem 50 not solved
 problem 94 下一次学习使用非递归的实现方法
 problem 111 DFS的应用。
