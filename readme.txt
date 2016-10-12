@@ -7,6 +7,7 @@ problem 5 如果用自己的方法时间复杂度是O(n^2),会超时，另一种
 problem 6 方法两种 1是按照顺序存入list的列表中，然后转为string.另一种是寻找字母下标与所在行的数学关系。
 problem 7 not solved
 problem 8 not solved
+problem 9 回环数，这个题目类比problem5，非常简单。
 problem 50 not solved
 problem 94 下一次学习使用非递归的实现方法
 problem 111 DFS的应用。
