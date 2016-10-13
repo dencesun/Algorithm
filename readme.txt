@@ -24,6 +24,7 @@ problem 199 not solved
 problem 219 not solved
 problem 222 not solved
 problem 257 DFS 注意python的一些特殊用法。
+problem 290 方法二的解答太巧妙，没有学会这个用法。方法的zip也很好
 problem 295 not solved
 problem 328 not solved
 problem 347 下一次尝试使用其他解法，本次解法太依赖python库
