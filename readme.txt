@@ -13,6 +13,7 @@ problem 50 not solved
 problem 61 题目很简单，不知为何，注释掉的代码和提交代买一样，但是却不能通过。
 problem 94 下一次学习使用非递归的实现方法
 problem 111 DFS的应用。
+problem 125 这个题目非常简单，简单处理一下字符串，然后存到list中，比较即可
 problem 144 本次使用的是递归方法，下一次尝试使用非递归的写法
 problem 151 学会filter的用法，学会join的用法
 problem 160 not solved
