@@ -31,72 +31,46 @@
 # btree.qout(base)
 
 class Node(object):
-	def __init__(self, elem = -1, lchild = None, rchild = None):
-		self.elem = elem
-		self.lchild = lchild
-		self.rchild = rchild
+    def __init__(self, elem=-1, lchild=None, rchild=None):
+        self.elem = elem
+        self.lchild = lchild
+        self.rchild = rchild
+
 
 class Tree(object):
-	def __init__(self):
-		self.root = Node()
+    def __init__(self):
+        self.root = Node()
 
-	def add(self, elem):
-		node = Node(elem)
-		if self.root.elem == -1:
-			self.root = node
-		else:
-			myQueue = []
-			treeNode = self.root
-			myQueue.append(treeNode)
-			while myQueue:
-				treeNode = myQueue.pop(0)
-				if treeNode.lchild == None:
-					treeNode.lchild = node
-					return 
-				elif treeNode.rchild == None:
-					treeNode.rchild = node
-					return 
-				else:
-					myQueue.append(treeNode.lchild)
-					myQueue.append(treeNode.rchild)
-	def preprint(self, root):
-		if root == None:
-			return
-		print root.elem
-		self.preprint(root.lchild)
-		self.preprint(root.rchild)
+    def add(self, elem):
+        node = Node(elem)
+        if self.root.elem == -1:
+            self.root = node
+        else:
+            myQueue = []
+            treeNode = self.root
+            myQueue.append(treeNode)
+            while myQueue:
+                treeNode = myQueue.pop(0)
+                if treeNode.lchild == None:
+                    treeNode.lchild = node
+                    return
+                elif treeNode.rchild == None:
+                    treeNode.rchild = node
+                    return
+                else:
+                    myQueue.append(treeNode.lchild)
+                    myQueue.append(treeNode.rchild)
+
+    def pre_print(self, root):
+        if root is None:
+            return
+        print(root.elem)
+        self.pre_print(root.lchild)
+        self.pre_print(root.rchild)
+
 
 btree = Tree()
 btree.add(1)
 btree.add(2)
 btree.add(3)
-btree.preprint(btree.root)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+btree.pre_print(btree.root)
