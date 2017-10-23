@@ -11,4 +11,4 @@ class Solution(object):
         return len(ans)
 
 test = Solution()
-print test.lengthOfLongestSubstring('pwwkew')
+print(test.lengthOfLongestSubstring('pwwkew'))

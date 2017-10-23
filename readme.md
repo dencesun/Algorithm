@@ -15,6 +15,8 @@ problem 8 not solved
 
 problem 9 回环数，这个题目类比problem5，非常简单。
 
+problem 11 双向指针，查找计算最大值（没有完全理解）
+
 problem 20 自己的方法和提交的方法思想一样，本地测试一样，但是OJ上面报错。无奈，拷贝网上的代码。
 
 problem 50 not solved
