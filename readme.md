@@ -37,6 +37,8 @@ problem 144 本次使用的是递归方法，下一次尝试使用非递归的�
 
 problem 151 学会filter的用法，学会join的用法
 
+problem 152 not solved
+
 problem 153 二分查找（binary search）
 
 problem 160 not solved
