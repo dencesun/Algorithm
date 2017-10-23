@@ -37,7 +37,11 @@ problem 144 本次使用的是递归方法，下一次尝试使用非递归的�
 
 problem 151 学会filter的用法，学会join的用法
 
+problem 153 二分查找（binary search）
+
 problem 160 not solved
+
+problem 162 binary search
 
 problem 165 解法很漂亮，学习使用extend,map，split函数，学会使用字符串转为list，dict等处理方法
 
