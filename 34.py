@@ -62,14 +62,9 @@ class Solution:
             return [-1, -1]
 
 
-
-
-
-
-
 nums = [5, 7, 7, 8, 8, 10]
-nums1 = [1]
 target = 8
+nums1 = [1]
 target1 = 0
 test = Solution()
 print(test.searchRange(nums1, target1))

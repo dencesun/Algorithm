@@ -27,6 +27,8 @@ problem 50 not solved
 
 problem 53 动态规划，动态方程列出来是关键
 
+problem 54 注意不要重复输出，或者说是注意单行或者单列的情况。
+
 problem 56 1.排序后，i.start < j.start; 2. 如果j.start < i.end, 则i, j可合并； 3.如果j.start > i.end，则无交集  
 
 problem 61 题目很简单，不知为何，注释掉的代码和提交代买一样，但是却不能通过。
