@@ -41,6 +41,8 @@ problem 73 方法有很多种，最简单的是用两个向量分别记录需要
 
 problem 74 二位数组的查找，按照顺序排列后，可以使用Binary Search.
 
+problem 75 分别统计0，1，2的个数，然后计算
+
 problem 88 归并排序。
 
 problem 94 下一次学习使用非递归的实现方法
