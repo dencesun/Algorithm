@@ -11,7 +11,7 @@ problem 6 方法两种 1是按照顺序存入list的列表中，然后转为stri
 
 problem 7 not solved
 
-problem 8 not solved
+problem 8 atoi函数，注意一些细节问题，比如字符串前面是否包含符号，要分别处理
 
 problem 9 回环数，这个题目类比problem5，非常简单。
 
